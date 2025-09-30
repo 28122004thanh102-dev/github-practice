@@ -1,1 +1,2 @@
 Add welcome message
+Enjoy your coding!
